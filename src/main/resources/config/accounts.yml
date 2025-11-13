@@ -25,17 +25,17 @@ spring:
       - "accounts-prod.yml"
     profiles:
       active:
-        - "dev"
+        - "prod"
 
-
-build:
-  version: "1.0"
-
-accounts:
-  message: "Welcome to Mishu Moni's World related Accounts Local APIs "
-  contactDetails:
-    name: "Mariam Mishu - Software Engineer"
-    email: "mariam@yopmail.com"
-  onCallSupport:
-    - (+88) 01780178134
-    - (+88) 01816345374
+#
+#build:
+#  version: "1.0"
+#
+#accounts:
+#  message: "Welcome to Mishu Moni's World related Accounts Local APIs "
+#  contactDetails:
+#    name: "Mariam Mishu - Software Engineer"
+#    email: "mariam@yopmail.com"
+#  onCallSupport:
+#    - (+88) 01780178134
+#    - (+88) 01816345374
