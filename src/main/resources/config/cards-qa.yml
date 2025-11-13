@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to Mishu Moni's World related Cards APIs "
+  contactDetails:
+    name: "Mariam Mishu - Software Engineer"
+    email: "mariam@yopmail.com"
+  onCallSupport:
+    - (+88) 01780178134
+    - (+88) 01816345374

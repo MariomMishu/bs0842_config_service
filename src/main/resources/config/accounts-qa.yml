@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Mishu Moni's World related Accounts APIs "
+  contactDetails:
+    name: "HipHop - QA Lead"
+    email: "hiphop@yopmail.com"
+  onCallSupport:
+    - (+88) 01780178134
+    - (+88) 01816345374

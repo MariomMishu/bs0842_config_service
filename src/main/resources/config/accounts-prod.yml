@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Mishu Moni's World related Accounts APIs "
+  contactDetails:
+    name: "Mariam Mishu - Product Owner"
+    email: "productowner@yopmail.com"
+  onCallSupport:
+    - (+88) 01780178134
+    - (+88) 01816345374
